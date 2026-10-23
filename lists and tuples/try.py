@@ -12,9 +12,18 @@
 
 # print(tuple2)
 
-tom=['A','B','C']
-print(tom[0:])
-print(tom[1])
-print(tom[1:2])
+# tom=['A','B','C']
+# print(tom[0:])
+# print(tom[1])
+# print(tom[1:2])
 # print(tom[3])
 # print(tom.index('A'))
+
+
+capitals = {"UK": "London",
+            "South Korea": "Seoul",
+            "China": "Beijing",
+            "Russia": "Moscow",
+            "Japan": "Tokyo"
+            # "UK": "Bristol" #what will happen if we add this line? It will not give error but it will replace the value of UK with Bristol
+            }

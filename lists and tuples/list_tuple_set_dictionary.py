@@ -50,7 +50,8 @@ student = {
     "name": "Ali",
     "age": 19,
     "course": "Computer Science",
-    "mark": 85
+    "mark": 85,
+    "idontknow":"Tom"
 }
 
 print(student["name"])
